@@ -27,7 +27,7 @@ table = {
         'GAC':'D','GAG':'E','GGT':'G', 'TCA':'S',
         'TTC':'F', 'TAC':'Y','TGC':'C', 'TGG':'W'}
 
-BASE_FILE = "D:/phd thesis/mydata/modified GDS/gds_dataset"
+BASE_FILE = "D:/mydata/GDS/gds_dataset"
 protein_file="{0}/ClassA_Cannabinoid_Cannabinoid.txt".format(BASE_FILE)
 
 
